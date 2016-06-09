@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: 7dbe027c1cfbb314c80e5030b3ab3153
+timeCreated: 1464683437
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spr_Bunny_Run_0
+    21300002: spr_Bunny_Run_1
+    21300004: spr_Bunny_Run_2
+    21300006: spr_Bunny_Run_3
+    21300008: spr_Bunny_Run_4
+    21300010: spr_Bunny_Run_5
+    21300012: spr_Bunny_Run_6
+    21300014: spr_Bunny_Run_7
+    21300016: spr_Bunny_Run_8
+    21300018: spr_Bunny_Run_9
+    21300020: spr_Bunny_Run_10
+    21300022: spr_Bunny_Run_11
+    21300024: spr_Bunny_Run_12
+    21300026: spr_Bunny_Run_13
+    21300028: spr_Bunny_Run_14
+    21300030: spr_Bunny_Run_15
+    21300032: spr_Bunny_Run_16
+    21300034: spr_Bunny_Run_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spr_Bunny_Run_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 30}
+        - {x: -32, y: 29}
+        - {x: -32, y: -20}
+        - {x: -14, y: -40}
+        - {x: 15, y: -40}
+        - {x: 15, y: 11}
+        - {x: -3, y: 30}
+    - name: spr_Bunny_Run_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 36}
+        - {x: -32, y: -17}
+        - {x: -16, y: -37}
+        - {x: 15, y: -37}
+        - {x: 15, y: 18}
+        - {x: 4, y: 36}
+    - name: spr_Bunny_Run_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 40}
+        - {x: -32, y: -25}
+        - {x: -29, y: -27}
+        - {x: -12, y: -35}
+        - {x: 15, y: -35}
+        - {x: 15, y: 24}
+        - {x: 5, y: 40}
+    - name: spr_Bunny_Run_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 34}
+        - {x: -3, y: 29}
+        - {x: -4, y: 26}
+        - {x: -13, y: 36}
+        - {x: -23, y: 37}
+        - {x: -32, y: 0}
+        - {x: -32, y: -20}
+        - {x: -10, y: -37}
+        - {x: -4, y: -38}
+        - {x: 15, y: -38}
+        - {x: 15, y: 39}
+        - {x: 4, y: 39}
+    - name: spr_Bunny_Run_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 36}
+        - {x: -32, y: -20}
+        - {x: -13, y: -40}
+        - {x: 15, y: -40}
+        - {x: 15, y: 36}
+    - name: spr_Bunny_Run_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 34}
+        - {x: -32, y: 24}
+        - {x: -32, y: -40}
+        - {x: 7, y: -40}
+        - {x: 15, y: -33}
+        - {x: 15, y: 20}
+        - {x: 4, y: 34}
+    - name: spr_Bunny_Run_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 29}
+        - {x: -32, y: -31}
+        - {x: -13, y: -40}
+        - {x: 13, y: -40}
+        - {x: 15, y: -37}
+        - {x: 15, y: 7}
+        - {x: 1, y: 29}
+    - name: spr_Bunny_Run_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 30}
+        - {x: -32, y: 29}
+        - {x: -32, y: -22}
+        - {x: -8, y: -40}
+        - {x: 15, y: -40}
+        - {x: 15, y: 14}
+        - {x: -2, y: 30}
+    - name: spr_Bunny_Run_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 36}
+        - {x: -32, y: 35}
+        - {x: -32, y: -25}
+        - {x: -27, y: -37}
+        - {x: 15, y: -37}
+        - {x: 15, y: 9}
+        - {x: 2, y: 36}
+    - name: spr_Bunny_Run_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 40}
+        - {x: -32, y: -24}
+        - {x: -8, y: -35}
+        - {x: 15, y: -35}
+        - {x: 15, y: 26}
+        - {x: 12, y: 40}
+    - name: spr_Bunny_Run_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 39}
+        - {x: 4, y: 39}
+        - {x: -1, y: 34}
+        - {x: -3, y: 29}
+        - {x: -13, y: 38}
+        - {x: -26, y: 30}
+        - {x: -32, y: -4}
+        - {x: -32, y: -19}
+        - {x: -13, y: -38}
+        - {x: 15, y: -38}
+        - {x: 15, y: 17}
+        - {x: 11, y: 36}
+    - name: spr_Bunny_Run_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 36}
+        - {x: -32, y: 16}
+        - {x: -32, y: -21}
+        - {x: -12, y: -40}
+        - {x: 15, y: -40}
+        - {x: 15, y: 21}
+        - {x: 6, y: 36}
+    - name: spr_Bunny_Run_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 34}
+        - {x: -24, y: 31}
+        - {x: -32, y: -5}
+        - {x: -32, y: -39}
+        - {x: -26, y: -40}
+        - {x: 15, y: -40}
+        - {x: 15, y: 19}
+        - {x: 12, y: 34}
+    - name: spr_Bunny_Run_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 29}
+        - {x: -32, y: 25}
+        - {x: -32, y: 12}
+        - {x: -29, y: 7}
+        - {x: -20, y: 0}
+        - {x: -32, y: -15}
+        - {x: -32, y: -26}
+        - {x: -30, y: -32}
+        - {x: -9, y: -40}
+        - {x: 10, y: -40}
+        - {x: 15, y: -35}
+        - {x: 15, y: 7}
+        - {x: -4, y: 29}
+    - name: spr_Bunny_Run_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 35}
+        - {x: -27, y: 27}
+        - {x: -31, y: 9}
+        - {x: -31, y: -26}
+        - {x: -13, y: -40}
+        - {x: 14, y: -40}
+        - {x: 16, y: -32}
+        - {x: 16, y: 7}
+        - {x: 4, y: 35}
+    - name: spr_Bunny_Run_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 17}
+        - {x: -13, y: 17}
+        - {x: -15, y: 12}
+        - {x: -28, y: 11}
+        - {x: -32, y: 7}
+        - {x: -32, y: -40}
+        - {x: 27, y: -40}
+        - {x: 27, y: -25}
+        - {x: -1, y: 14}
+    - name: spr_Bunny_Run_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 17}
+        - {x: -13, y: 17}
+        - {x: -15, y: 12}
+        - {x: -28, y: 11}
+        - {x: -31, y: 8}
+        - {x: -31, y: 0}
+        - {x: -32, y: -7}
+        - {x: -32, y: -40}
+        - {x: 27, y: -40}
+        - {x: 27, y: -26}
+        - {x: -1, y: 14}
+    - name: spr_Bunny_Run_17
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 17}
+        - {x: -32, y: 17}
+        - {x: -32, y: -40}
+        - {x: 25, y: -40}
+        - {x: 26, y: -37}
+        - {x: 26, y: -23}
+        - {x: -1, y: 14}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
